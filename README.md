@@ -1,2 +1,2 @@
-# hello-wold
+# hello-world
 An attempt to.
